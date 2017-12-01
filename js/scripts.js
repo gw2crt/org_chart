@@ -6,7 +6,7 @@
 
     var datasource = {
         'id' : '1',
-        'name': 'Aidan Halliwell',
+        'name': 'Aidan',
         'title': 'Director',
         'className' : 'topLevel',
         'children': [
